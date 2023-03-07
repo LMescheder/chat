@@ -1,7 +1,6 @@
 # Chat
 
-This is a simple command line interface to [OpenAI's chat API](https://platform.openai.com/),
-also powering ChatGPT.
+This is a simple command line interface to [OpenAI's chat API](https://platform.openai.com/).
 
 ## Installation
 
